@@ -27,13 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Geographie
-    institution: Universität Greifswald
-    year: 2014
-  - course: Geologie
-    institution: Universität Greifswald
-    year: 2014
-  - course: Kommunikationswissenschaft
+  - course: Geographie Nebenfächer Geologie und Kommunikationswissenschaft
     institution: Universität Greifswald
     year: 2014
 
