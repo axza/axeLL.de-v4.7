@@ -69,3 +69,5 @@ fields:
   type: boolean
   label: featured
   description: You can filter by featured content on your homepage
+pages:
+- content/talk/Campustagung2020/virtueller-campus-digitale-lehre.md
