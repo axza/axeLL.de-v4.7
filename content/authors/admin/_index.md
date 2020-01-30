@@ -20,17 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ich begeistere mich für Fragen zu Mobilität, Technologie und Gesellschaft
 
-#interests:
-#- Mobilität
-#- Technologie
-#- Gesellschaft
+interests:
+- Mobilität
+- Technologie
+- Gesellschaft
 
 education:
   courses:
-  - course: Geographie Nebenfächer: Kommunikationswissenschaft und Geologie
+  - course: Geographie
     institution: Universität Greifswald
     year: 2014
-
+  - course: Geologie
+    institution: Universität Greifswald
+    year: 2014
+  - course: Kommunikationswissenschaft
+    institution: Universität Greifswald
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
