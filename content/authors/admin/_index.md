@@ -27,7 +27,7 @@ bio: Ich begeistere mich für Fragen zu Mobilität, Technologie und Gesellschaft
 
 #education:
   courses:
-  - course: Geographie Nebenfächer: Kommunikationswissenschaft und Geologie
+  - course: "Geographie Nebenfächer: Kommunikationswissenschaft und Geologie"
     institution: Universität Greifswald
     year: 2014
 
