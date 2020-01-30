@@ -65,5 +65,3 @@ user_groups:
 Ich arbeite seit 2017 an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a>. Hier verantworte ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
 
 Nach dem Studium der Geographie an der Universität Greifswald arbeitete ich freiberuflich u. a. als GIS-Analyst, Consultant, Projekt-Assistent und Kartierer.
-
-<h2>👨‍👩‍👧‍👦 🚲👨‍💻🎮‍🤖</h2>
