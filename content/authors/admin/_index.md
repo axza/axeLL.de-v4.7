@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Diplom Geograph & Wissenschaftlicher Mitarbeiter
+role: Diplom-Geograph
 
 # Organizations/Affiliations
 organizations:
@@ -26,10 +26,10 @@ bio: Ich begeistere mich für Fragen zu Mobilität, Technologie und Gesellschaft
 #- Gesellschaft
 
 #education:
-#  courses:
-#  - course: Diplom-Geograph
-#    institution: Universität Greifswald
-#    year: 2014
+  courses:
+  - course: Geographie Nebenfächer: Kommunikationswissenschaft und Geologie
+    institution: Universität Greifswald
+    year: 2014
 
 
 # Social/Academic Networking
