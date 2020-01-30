@@ -11,7 +11,6 @@ title = "Arbeitssuchend"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
 
 +++
 Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier festhalten möchte. Eventuell helfen meine Erfahrungen anderen, die sich in vergleichbarer Situation befinden.
