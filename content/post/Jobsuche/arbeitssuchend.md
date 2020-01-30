@@ -14,4 +14,4 @@ focal_point = ""
 placement = nil
 
 +++
-Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember (t0) mal über offene Stellen informiert. Ein Rundumschlag auf gängigen Jobaggregatoren- und Seiten, die die Geo*- und IT-Zielgruppe bedienen , zu der ich mich zähle, wie [digital-geography.com](https://de.digital-geography.com/jobs/ "digital-geography.com"),  [greenjobs.de](https://www.greenjobs.de/ "greenjobs.de")
+Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember (t0) mal über offene Stellen informiert. Ein Rundumschlag auf gängigen Jobaggregatoren- und Seiten, die die Geo*- und IT-Zielgruppe bedienen wie [digital-geography.com](https://de.digital-geography.com/jobs/ "digital-geography.com"), [greenjobs.de](https://www.greenjobs.de/ "greenjobs.de")
