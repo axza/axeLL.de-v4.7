@@ -18,6 +18,5 @@ url_video = ""
 [image]
 caption = ""
 focal_point = ""
-placement = nil
 
 +++
