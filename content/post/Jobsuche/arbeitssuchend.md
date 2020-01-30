@@ -14,4 +14,4 @@ focal_point = ""
 placement = nil
 
 +++
-Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember (t0) Mal über offene Stellen informiert.
+Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember (t0) Mal über offene Stellen informiert. Ein Rundumschlag auf gängigen Jobseiten wie
