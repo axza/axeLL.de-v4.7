@@ -2,7 +2,7 @@
 abstract = ""
 all_day = false
 authors = []
-date = 2020-03-30T11:30:00Z
+date = 2020-03-30T13:30:00Z
 date_end = 2020-03-30T16:00:00Z
 draft = true
 event = "Digitale Lehre an der Universität Rostock"
