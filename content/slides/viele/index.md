@@ -28,9 +28,9 @@ slides:
 </div>
 
  <div id="oge-footer" class="footer">
-     <span class="element">#Campustagung2020</span>
-     <span class="element">@opengeoedu</span>
      <span class="element">30.03.2020</span>
+     <span class="element">#Campustagung2020 </span>
+     <span class="element"><a href="https://twitter.com/opengeoedu">@opengeoedu</a></span>
  </div>
 
   <script type="text/javascript">
@@ -73,18 +73,43 @@ soll die Nutzung von <span class="fragment highlight-blue">offenen Geodaten in r
 
 ***
 
-<section data-background="offeneLernplattform.png"  data-background-color="" data-background-size="contain"">
-</section>
+![](offeneLernplattform.png)
 
 ***
-
-![](learn-start.png)
 
 [learn.opengeoedu.de](https://learn.opengeoedu.de)
+![](learn-start.png)
+
+***
+
+[ilias.opengeoedu.de](https://ilias.opengeoedu.de)
+![](ilias-start.png)
+
+***
+
+## Erstellung und Bearbeitung 
+
+![](https://media.giphy.com/media/p3K9tRGVitrDQHlPkG/giphy.gif)
+
+#### von Lerninhalten 
 
 
 ***
 
-![](ilias-start.png)
+VS Code
+![](md_edit_in_VSCode.png)
 
-[ilias.opengeoedu.de](https://ilias.opengeoedu.de)
+***
+
+GitHub
+
+![](oge-github.png)
+
+***
+
+![](oge-forks.png)
+
+***
+
+![](oge-review-pr.png)
+
