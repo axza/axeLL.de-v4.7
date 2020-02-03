@@ -4,7 +4,7 @@ all_day = false
 authors = []
 date = 2020-03-30T13:30:00Z
 date_end = 2020-03-30T16:00:00Z
-draft = true
+draft = false
 event = "Digitale Lehre an der Universität Rostock"
 event_url = "https://www.zlb.uni-rostock.de/storages/uni-rostock/ZLB/Call_for_Participation_Tagung.jpg"
 featured = false
@@ -19,5 +19,7 @@ url_video = ""
 caption = ""
 focal_point = ""
 placement = 0
+preview_only= true
+
 
 +++
