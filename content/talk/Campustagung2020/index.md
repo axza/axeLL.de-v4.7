@@ -16,6 +16,7 @@ title = "Virtueller Campus digitale Lehre"
 url_code = ""
 url_slides = ""
 url_video = ""
+slides = "viele"
 [address]
 city = "Rostock"
 country = "Germay"
@@ -23,7 +24,7 @@ postcode = "18057"
 street = "Ulmenstraße 69"
 [image]
 caption = ""
-focal_point = ""
+focal_point = "TopLeft"
 placement = 0
 preview_only = true
 
