@@ -18,5 +18,6 @@ url_video = ""
 [image]
 caption = ""
 focal_point = ""
+placement = 0
 
 +++
