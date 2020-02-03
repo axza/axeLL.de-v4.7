@@ -22,4 +22,7 @@ Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Deze
 
 Automatisierung der Erstellung von Bewerbungsunterlagen. Serienbrief Funktionen mit Google Documents,, Google Forms und Google Sheets umgesetzt.
 
+* [ ] Zusammenstellung der Vorlage
+* [ ] Formularbasierte Dokumentenerstellung
 * [ ] Automatische PDF Generierung
+* [ ] Manuelle Prüfung und Versand
