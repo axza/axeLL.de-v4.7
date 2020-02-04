@@ -1,6 +1,6 @@
 ---
-title: Junger Krongress für Geographie (JKG)
-event: Junger Krongress für Geographie
+title: Junger Kongress für Geographie (JKG)
+event: Junger Kongress für Geographie
 event_url: https://www.dkg2019.de/programm/junger-kongress-fuer-geographie-jkg-2/
 location: Geographisches Institut der CAU
 address:
