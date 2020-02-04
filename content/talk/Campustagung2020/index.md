@@ -1,7 +1,7 @@
 +++
-abstract = ""
+abstract = "Das Projekt VieLe Campustagung Digitale Lehre"
 all_day = false
-authors = []
+authors = ["admin"]
 date = 2020-03-30T13:30:00Z
 date_end = 2020-03-30T16:00:00Z
 event = "Digitale Lehre an der Universität Rostock"
@@ -26,6 +26,6 @@ street = "Ulmenstraße 69"
 caption = ""
 focal_point = "TopLeft"
 placement = 0
-preview_only = true
+preview_only = false
 
 +++
