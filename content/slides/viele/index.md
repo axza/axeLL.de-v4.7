@@ -19,7 +19,6 @@ footer:
   twitterlink: opengeoedu
   copyright: by-sa
   ort: 
-draft: true
 
 ---
 <style>
