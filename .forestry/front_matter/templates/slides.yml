@@ -92,27 +92,27 @@ fields:
     config:
       required: false
       options:
-      - default
-      - fast
-      - slow
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: transition
-  - name: transitionspeed
-    type: select
-    default: []
-    config:
-      required: false
-      options:
       - none
       - fade
       - slide
       - convex
       - concave
       - zoom
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: transition
+  - name: transitionSpeed
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - default
+      - fast
+      - slow
       source:
         type: simple
         section: 
