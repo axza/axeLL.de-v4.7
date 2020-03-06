@@ -39,6 +39,45 @@ fields:
     display_utc: false
     export_format: ''
   default: now
+- name: footer
+  type: field_group
+  config: {}
+  fields:
+  - name: tag
+    type: datetime
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    label: Tag
+  - name: veranstaltung
+    type: text
+    config:
+      required: false
+    label: Veranstaltung
+  - name: twitterlink
+    type: text
+    config:
+      required: false
+    label: twitterlink
+  - name: copyright
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - by
+      - by-sa
+      - by-sa-nc
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: copyright
+  label: footer
 - name: slides
   type: field_group
   config: {}
@@ -82,6 +121,48 @@ fields:
         file: 
         path: 
     label: highlight_style
+  - name: slidenumber
+    type: boolean
+    label: slideNumbers
+    default: true
+  - name: transition
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - none
+      - fade
+      - slide
+      - convex
+      - concave
+      - zoom
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: transition
+  - name: transitionSpeed
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - default
+      - fast
+      - slow
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: transitionSpeed
+  - name: parallaxbackgroundimage
+    type: file
+    config:
+      maxSize: 250
+    label: parallaxBackgroundImage
   label: slides
 pages:
 - content/slides/grav-setup/grav-setup.md

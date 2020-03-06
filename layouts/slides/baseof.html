@@ -45,9 +45,9 @@
 <body>
   
   <div id="oge-footer" class="footer">
-    <span class="element">{{ $.Title }}</span>
+    <span class="element">{{ $.Params.footer.veranstaltung }}</span>
     <span class="element">{{ $.Params.footer.tag }}</span>
-    <span class="element"><a href="https://twitter.com/{{ $.Params.footer.twitterlink }}">@{{ $.Params.footer.twitterlink }}</a></span>
+    <span class="element"><a href="https://twitter.com/{{ $.Params.footer.twitterlink }}" target="_blank">@{{ $.Params.footer.twitterlink }}</a></span>
     <span><a rel="license" href="http://creativecommons.org/licenses/{{ $.Params.footer.copyright }}/4.0/"><img alt="Creative Commons Lizenzvertrag"
           src="https://i.creativecommons.org/l//{{ $.Params.footer.copyright }}/4.0/88x31.png"></a></span>
   </div>
