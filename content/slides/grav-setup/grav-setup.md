@@ -8,9 +8,9 @@ tags = ["foss", "oer", "grav", "opengeoedu"]
 title = "Grav Setup"
 [footer]
 copyright = ""
-tag = ""
-twitterlink = ""
-veranstaltung = ""
+tag = "2020-03-30T00:00:00+02:00"
+twitterlink = "opengeoedu"
+veranstaltung = "campustagung2020"
 [slides]
 highlight_style = "atom-one-dark"
 parallaxbackgroundimage = ""
@@ -38,9 +38,9 @@ height: 100%;
 </div>
 
 <div id="oge-footer" class="footer">
-<span class="element">30.03.2020</span>
-<span class="element">#Campustagung2020</span>
-<span class="element"><a href="https://twitter.com/opengeoedu">@opengeoedu</a></span>
+<span class="element">{{ .tag }}}</span>
+<span class="element">{{ .veranstaltung }}</span>
+<span class="element"><a href="https://twitter.com/{{ .twitterlink }}">@{{ .twitterlink }}</a></span>
 <span><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a></span>
 </div>
 
