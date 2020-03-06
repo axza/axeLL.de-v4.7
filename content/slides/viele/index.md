@@ -1,24 +1,27 @@
 ---
 title: VieLe Campustagung 2020
 summary: ''
-authors: 
+authors: ''
 tags:
-  - foss
-  - teaching
-  - Digitalisierung
+- foss
+- teaching
+- Digitalisierung
 categories:
 - opengeoedu
 date: 2020-01-30T14:29:45.000+00:00
 slides:
   theme: white
   highlight_style: dracula
+  slidenumber: true
+  transition: []
+  transitionSpeed: []
+  parallaxbackgroundimage: ''
 footer:
   tag: 30.03.2020
   veranstaltung: VieLe-Campustagung
   twitterlink: opengeoedu
   copyright: by-sa
   ort: ''
-draft: false
 
 ---
 <style>
