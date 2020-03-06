@@ -36,7 +36,7 @@ height: 100%;
 <div class="object-fit">
 <img src="/uploads/LOGO_open_geo_edu_RGB.png">
 </div>
-
+{{ with .Params.footer }}
 <div id="oge-footer" class="footer">
 <span class="element">{{ .tag }}}</span>
 <span class="element">{{ .veranstaltung }}</span>
