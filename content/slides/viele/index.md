@@ -1,5 +1,5 @@
 ---
-title: VieLe-Campustagung 2020
+title: VieLe Campustagung 2020
 summary: ''
 authors: [admin]
 tags: [foss, teaching, Digitalisierung]
