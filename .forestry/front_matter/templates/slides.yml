@@ -51,6 +51,7 @@ fields:
       date_format: DD.MM.YYYY
       time_format: hh:mm
       display_utc: false
+      export_format: DD.MM.YYYY
     label: Tag
   - name: veranstaltung
     type: text
