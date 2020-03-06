@@ -7,8 +7,8 @@ summary = "Mit diesen Schritten bauen Sie ein CMS nach dem OpenGeoEdu-Schema um 
 tags = ["foss", "oer", "grav", "opengeoedu"]
 title = "Grav Setup"
 [footer]
-copyright = ""
-tag = "2020-03-30T00:00:00+02:00"
+copyright = "by"
+tag = "2020-03-30T23:27:00+02:00"
 twitterlink = "opengeoedu"
 veranstaltung = "campustagung2020"
 [slides]
@@ -35,13 +35,6 @@ height: 100%;
 
 <div class="object-fit">
 <img src="/uploads/LOGO_open_geo_edu_RGB.png">
-</div>
-{{ with .Params.footer }}
-<div id="oge-footer" class="footer">
-<span class="element">{{ .tag }}}</span>
-<span class="element">{{ .veranstaltung }}</span>
-<span class="element"><a href="https://twitter.com/{{ .twitterlink }}">@{{ .twitterlink }}</a></span>
-<span><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a></span>
 </div>
 
 <script type="text/javascript">

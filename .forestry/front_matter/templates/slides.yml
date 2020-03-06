@@ -48,8 +48,8 @@ fields:
     description: ''
     config:
       required: false
-      date_format: 
-      time_format: 
+      date_format: DD.MM.YYYY
+      time_format: hh:mm
       display_utc: false
     label: Tag
   - name: veranstaltung
