@@ -84,7 +84,7 @@ fields:
     label: highlight_style
   - name: slidenumber
     type: boolean
-    label: slideNumber
+    label: slideNumbers
     default: false
   label: slides
 pages:
