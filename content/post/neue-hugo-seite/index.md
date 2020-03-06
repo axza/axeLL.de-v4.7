@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neue Hugo Seite"
+title: "Neue Seite"
 subtitle: ""
-summary: "Meine Neue Seite umgesetzt mit gohugoio"
+summary: "Meine Neue Seite umgesetzt mit hugo"
 authors: []
 tags: [hugo, GitHub, webdev, academic, foss]
-categories: [hugo]
+categories: []
 date: 2019-07-04T15:39:08+02:00
 lastmod: 2019-07-04T23:39:08+02:00
 featured: false
