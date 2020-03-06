@@ -1,11 +1,13 @@
 ---
 title: VieLe Campustagung 2020
-summary: ''
+summary: Präsentation zum OpenGeoEdu-Beitrag für die Campustagung 2020 an der Universität
+  Rostock
 authors: ''
 tags:
 - foss
 - teaching
 - Digitalisierung
+- OER
 categories:
 - opengeoedu
 date: 2020-01-30T14:29:45.000+00:00
