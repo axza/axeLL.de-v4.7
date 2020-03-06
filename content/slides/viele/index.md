@@ -20,7 +20,7 @@ footer:
   tag: 30.03.2020
   veranstaltung: VieLe-Campustagung
   twitterlink: opengeoedu
-  copyright: by-sa
+  copyright: by-nd
   ort: ''
 
 ---
