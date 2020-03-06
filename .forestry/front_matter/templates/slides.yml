@@ -82,6 +82,10 @@ fields:
         file: 
         path: 
     label: highlight_style
+  - name: slidenumber
+    type: boolean
+    label: slideNumber
+    default: false
   label: slides
 pages:
 - content/slides/grav-setup/grav-setup.md
