@@ -1,7 +1,7 @@
 ---
 title: NØRD
 summary: ''
-authors: admin
+authors: ''
 tags: []
 categories:
 - opengeoedu
@@ -17,7 +17,7 @@ footer:
   twitterlink: twoeLLph
   veranstaltung: NØRD
   copyright: by-sa
-  tag: 
+  tag: ''
   ort: ''
 
 ---
