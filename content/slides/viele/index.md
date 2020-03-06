@@ -25,22 +25,22 @@ footer:
 
 ---
 <style>
-  .object-fit {
-    width: 300px;
-    height: 300px;
-    margin: 0em auto;
-  }
+.object-fit {
+width: 300px;
+height: 300px;
+margin: 0em auto;
+}
 
-  .object-fit img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-  }
+.object-fit img {
+object-fit: cover;
+width: 100%;
+height: 100%;
+}
 
 </style>
 
 <div class="object-fit">
-  <img src="/uploads/LOGO_open_geo_edu_RGB.png" style="background:none; border:none; box-shadow:none;">
+<img src="/uploads/LOGO_open_geo_edu_RGB.png" style="background:none; border:none; box-shadow:none;">
 </div>
 
 # Workshop
@@ -53,8 +53,8 @@ footer:
 
 soll die Nutzung von <span class="fragment highlight-blue">offenen Geodaten in raumbezogenen Studiengängen</span> anhand
 von Best-Practice-Beispielen illustrieren und darauf aufbauend <span
-  class="fragment highlight-blue">E-Learning-Angebote</span> für die <span class="fragment highlight-blue">Integration
-  in einer Vielzahl von Studiengängen</span> bereitstellen.
+class="fragment highlight-blue">E-Learning-Angebote</span> für die <span class="fragment highlight-blue">Integration
+in einer Vielzahl von Studiengängen</span> bereitstellen.
 
 ***
 
@@ -63,9 +63,9 @@ von Best-Practice-Beispielen illustrieren und darauf aufbauend <span
 ### Lernen mit offenen Daten?!
 
 <section>
-  <img class="fragment" height="300" src="lupe.png" style="background:none; border:none; box-shadow:none;">
-  <img class="fragment" height="300" src="workit.gif" style="background:none; border:none; box-shadow:none;">
-  <img class="fragment" height="300" src="test.png" style="background:none; border:none; box-shadow:none;">
+<img class="fragment" height="300" src="lupe.png" style="background:none; border:none; box-shadow:none;">
+<img class="fragment" height="300" src="workit.gif" style="background:none; border:none; box-shadow:none;">
+<img class="fragment" height="300" src="test.png" style="background:none; border:none; box-shadow:none;">
 </section>
 
 ***
@@ -96,7 +96,6 @@ von Best-Practice-Beispielen illustrieren und darauf aufbauend <span
 
 #### von Lerninhalten
 
-
 ***
 
 VS Code
@@ -115,3 +114,6 @@ GitHub
 ***
 
 ![](oge-review-pr.png)
+
+***
+
