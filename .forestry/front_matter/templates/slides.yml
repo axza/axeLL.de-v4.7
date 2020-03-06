@@ -84,4 +84,5 @@ fields:
     label: highlight_style
   label: slides
 pages:
+- content/slides/grav-setup/grav-setup.md
 - content/slides/test/test.md
