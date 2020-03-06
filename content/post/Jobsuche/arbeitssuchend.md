@@ -1,13 +1,13 @@
 +++
 authors = []
-date = 2020-01-23T23:00:00Z
+date = 2020-03-06T14:03:00Z
 draft = true
 featured = false
 projects = []
 subtitle = "Erfahrungen meiner kürzlichen Jobsuche"
 summary = ""
 tags = []
-title = "Arbeitssuchend"
+title = "Projekt: Arbeitssuche"
 [image]
 caption = ""
 focal_point = ""
@@ -18,15 +18,17 @@ Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier 
 
 ## Zur Ausgangslage:
 
-Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember ($ t_{ 0 } $) mal über offene Stellen informiert. Mit einem Rundumschlag auf gängigen Jobaggregatoren- und Seiten, die die Geo*- und IT-Zielgruppe bedienen wie beispielsweise [digital-geography.com](https://de.digital-geography.com/jobs/ "digital-geography.com") oder [greenjobs.de](https://www.greenjobs.de/ "greenjobs.de") habe ich angefangen. Die waren schon sehr ergiebig. Ergänzend habe ich die handverlesenen Angebote von [gesinesjobtipps.de](https://gesinesjobtipps.de/ "gesinesjobtipps.de") gescannt sowie die Suchfunktion für Stellenangebote von Google durchforstet.
+Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember ($ t_{ 0 } $) mal über offene Stellen informiert. Mit einem Rundumschlag auf gängigen Jobaggregatoren- und Seiten, die die Geo*- und IT-Zielgruppe bedienen wie beispielsweise [digital-geography.com](https://de.digital-geography.com/jobs/ "digital-geography.com") oder [greenjobs.de](https://www.greenjobs.de/ "greenjobs.de") habe ich angefangen. Dieser war schon sehr ergiebig. Ergänzend habe ich die handverlesenen Angebote von [gesinesjobtipps.de](https://gesinesjobtipps.de/ "gesinesjobtipps.de") gescannt sowie die Suchfunktion für Stellenangebote von Google durchforstet.
 
-![](/img/googlejobs.jpg)
+![Screenshot der Google Jobsuche](/img/googlejobs.jpg "Google Jobsuche")
 
 ## Automatisierung der Erstellung von Bewerbungsunterlagen.
 
-Für die Zusammenführung meiner Bewerbungsunterlagen habe ich die Serienbrief Funktionen von Google Documents, Google Forms und Google Sheets verwendet.
+($ t_{ 1 } $) Für die Zusammenführung meiner Bewerbungsunterlagen habe ich die Serienbrief Funktionen von Google Documents, Google Forms und Google Sheets verwendet. 
 
 ![](/img/dokumente.png)
+
+Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragung vorgenommen. Diese entsprechen denen eines Standardbriefes (eigene Anschrift, Begrüßung, Verabschiedung, eigene Unterschrift)
 
 * \[ \] Zusammenstellung der Vorlage
 * \[ \] Formularbasierte Dokumentenerstellung
