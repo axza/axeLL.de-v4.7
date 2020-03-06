@@ -49,9 +49,3 @@ window.addEventListener("load", function() {
 </script>
 
 ## FOSS nutzen um OER zu erstellen und zu veröffentlichen
-
-***
-
-# h1
-
-***
