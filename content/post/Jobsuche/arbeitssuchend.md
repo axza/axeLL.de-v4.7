@@ -5,8 +5,8 @@ draft = true
 featured = false
 projects = []
 subtitle = "Erfahrungen meiner kürzlichen Jobsuche"
-summary = ""
-tags = []
+summary = "Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier festhalten möchte. Eventuell helfen meine Erfahrungen anderen, die sich in vergleichbarer Situation befinden."
+tags = ["Lebenslanges Lernen", "Digitalisierung", "Automatisierung"]
 title = "Projekt: Arbeitssuche"
 [image]
 caption = ""
@@ -28,9 +28,13 @@ Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Deze
 
 ![](/img/dokumente.png)
 
+### Vorbereitung der Dokumente
+
 Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragung vorgenommen. Diese entsprechen denen eines Standardbriefes (eigene Anschrift, Begrüßung, Verabschiedung, eigene Unterschrift)
 
-* \[ \] Zusammenstellung der Vorlage
-* \[ \] Formularbasierte Dokumentenerstellung
-* \[ \] Automatische PDF Generierung
-* \[ \] Manuelle Prüfung und Versand
+## To-Do
+
+- [ ] Zusammenstellung der Vorlage
+* [ ] Formularbasierte Dokumentenerstellung
+* [ ] Automatische PDF Generierung
+* [ ] Manuelle Prüfung und Versand
