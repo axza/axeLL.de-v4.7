@@ -6,10 +6,18 @@ draft = true
 summary = "Mit diesen Schritten bauen Sie ein CMS nach dem OpenGeoEdu-Schema um OER-Inhalte zu veröffentlichen"
 tags = ["foss", "oer", "grav", "opengeoedu"]
 title = "Grav Setup"
+[footer]
+copyright = ""
+tag = ""
+twitterlink = ""
+veranstaltung = ""
 [slides]
 highlight_style = "atom-one-dark"
+parallaxbackgroundimage = ""
 slidenumber = true
 theme = "league"
+transition = ""
+transitionSpeed = ""
 
 +++
 <style>
@@ -52,3 +60,5 @@ window.addEventListener("load", function() {
 ***
 
 # h1
+
+***
