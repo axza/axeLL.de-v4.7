@@ -85,7 +85,40 @@ fields:
   - name: slidenumber
     type: boolean
     label: slideNumbers
-    default: false
+    default: true
+  - name: transition
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - default
+      - fast
+      - slow
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: transition
+  - name: transitionspeed
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - none
+      - fade
+      - slide
+      - convex
+      - concave
+      - zoom
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: transitionSpeed
   label: slides
 pages:
 - content/slides/grav-setup/grav-setup.md
