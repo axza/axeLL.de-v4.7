@@ -17,7 +17,7 @@ fields:
   config:
     required: false
   label: authors
-  default: admin
+  default: ''
   hidden: true
 - name: tags
   type: tag_list
