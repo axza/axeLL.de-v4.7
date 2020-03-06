@@ -172,3 +172,5 @@ fields:
       maxSize: 250
     label: parallaxBackgroundImage
   label: slides
+pages:
+- content/slides/noerd/index.md

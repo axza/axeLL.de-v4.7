@@ -1,7 +1,7 @@
 ---
 title: NØRD
 summary: ''
-authors: []
+authors: admin
 tags: []
 categories:
 - opengeoedu
@@ -9,6 +9,16 @@ date: 2019-10-16T14:29:45.000+00:00
 slides:
   theme: white
   highlight_style: dracula
+  slidenumber: true
+  transition: []
+  transitionSpeed: []
+  parallaxbackgroundimage: ''
+footer:
+  twitterlink: twoeLLph
+  veranstaltung: NØRD
+  copyright: by-sa
+  tag: 
+  ort: ''
 
 ---
 <style
