@@ -1,4 +1,14 @@
 ---
 label: Slides
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: summary
+  type: text
+  config:
+    required: false
+  label: summary
