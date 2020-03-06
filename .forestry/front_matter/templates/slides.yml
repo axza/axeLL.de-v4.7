@@ -173,5 +173,4 @@ fields:
     label: parallaxBackgroundImage
   label: slides
 pages:
-- content/slides/grav-setup/grav-setup.md
 - content/slides/test/test.md
