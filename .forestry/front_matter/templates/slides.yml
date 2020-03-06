@@ -39,5 +39,49 @@ fields:
     display_utc: false
     export_format: ''
   default: now
+- name: slides
+  type: field_group
+  config: {}
+  fields:
+  - name: theme
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - white
+      - black
+      - beige
+      - blood
+      - league
+      - moon
+      - night
+      - serif
+      - simple
+      - sky
+      - solarized
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: theme
+  - name: highlight_style
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - dracula
+      - monokai
+      - zenburn
+      - atom-one-dark
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: highlight_style
+  label: slides
 pages:
 - content/slides/test/test.md
