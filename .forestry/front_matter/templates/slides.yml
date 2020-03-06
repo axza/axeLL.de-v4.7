@@ -80,6 +80,11 @@ fields:
         file: 
         path: 
     label: copyright
+  - name: ort
+    type: text
+    config:
+      required: false
+    label: ort
   label: footer
 - name: slides
   type: field_group
