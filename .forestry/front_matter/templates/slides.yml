@@ -70,7 +70,10 @@ fields:
       options:
       - by
       - by-sa
-      - by-sa-nc
+      - by-nc
+      - by-nc-sa
+      - by-nc-nd
+      - by-nd
       source:
         type: simple
         section: 
