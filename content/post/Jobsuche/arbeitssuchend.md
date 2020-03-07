@@ -47,19 +47,6 @@ Nun fügen wir in das Anschreiben Platzhalter ein. Diese sind in dem Format '{{P
     
     Ich bin ab {{Arbeitsbeginn}} {{Jahr}}, evtl auch früher, einsetzbar und stehe Ihnen gerne zur Verfügung.
 
-'''{{Adresse}}
-
-{{heutiges datum}}    
-
-**{{Stellentitel}} {{kennziffer}}**
-
-{{Anrede}},
-
-bezugnehmend auf Ihr Stellenangebot auf {{Quelle des Stellenangebotes}} bewerbe ich mich auf die vakante oben genannte Stelle als {{Stellentitel}}.
-
-{{Anschreiben}}
-
-Ich bin ab {{Arbeitsbeginn}} {{Jahr}}, evtl auch früher, einsetzbar und stehe Ihnen gerne zur Verfügung.'''
 
 ## To-Do
 
