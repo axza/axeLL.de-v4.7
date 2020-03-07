@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-06T14:03:00Z
-draft = true
 featured = false
 projects = []
 subtitle = "Erfahrungen meiner kürzlichen Jobsuche"
