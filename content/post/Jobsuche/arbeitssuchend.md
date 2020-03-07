@@ -24,17 +24,21 @@ Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Deze
 
 ## Automatisierung der Erstellung von Bewerbungsunterlagen.
 
-($ t_{ 1 } $) Für die Zusammenführung meiner Bewerbungsunterlagen habe ich die Serienbrief Funktionen von Google Documents, Google Forms und Google Sheets verwendet. 
+($ t_{ 1 } $) Für die Zusammenführung meiner Bewerbungsunterlagen habe ich die Serienbrief Funktionen von Google Documents, Google Forms und Google Sheets verwendet.
 
 ![](/img/dokumente.png)
 
 ### Vorbereitung der Dokumente
 
-Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragung vorgenommen. Diese entsprechen denen eines Standardbriefes (eigene Anschrift, Begrüßung, Verabschiedung, eigene Unterschrift)
+Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragung vorgenommen. Diese entsprechen denen eines Standardbriefes (eigene Anschrift, Begrüßung, Verabschiedung, Unterschrift)
+
+Die weiteren Unterlagen wie Lebenslauf, Zeugnisse und Beurteilungen werden ebenfalls in das Dokument eingefügt. So ist das Grundgerüst fertig.
 
 ## To-Do
 
-- [ ] Zusammenstellung der Vorlage
-* [ ] Formularbasierte Dokumentenerstellung
-* [ ] Automatische PDF Generierung
-* [ ] Manuelle Prüfung und Versand
+* \[ \] Zusammenstellung der Vorlage
+
+
+* \[ \] Formularbasierte Dokumentenerstellung
+* \[ \] Automatische PDF Generierung
+* \[ \] Manuelle Prüfung und Versand
