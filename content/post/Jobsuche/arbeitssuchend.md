@@ -34,6 +34,33 @@ Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragu
 
 Die weiteren Unterlagen wie Lebenslauf, Zeugnisse und Beurteilungen werden ebenfalls in das Dokument eingefügt. So ist das Grundgerüst fertig.
 
+Nun fügen wir in das Anschreiben Platzhalter ein. Diese sind in dem Format '{{Platzhaltername}}' einzusetzen. Bei mir sind es 
+
+    
+    {{Adresse}}
+        {{heutiges datum}}    
+    {{Stellentitel}} {{kennziffer}}
+    {{Anrede}}, sehr geehrte Damen und Herren,
+    bezugnehmend auf Ihr Stellenangebot auf {{Quelle des Stellenangebotes}} bewerbe ich mich auf die vakante oben genannte Stelle als {{Stellentitel}}.
+    
+    {{Anschreiben}}
+    
+    Ich bin ab {{Arbeitsbeginn}} {{Jahr}}, evtl auch früher, einsetzbar und stehe Ihnen gerne zur Verfügung.
+
+'''{{Adresse}}
+
+{{heutiges datum}}    
+
+**{{Stellentitel}} {{kennziffer}}**
+
+{{Anrede}},
+
+bezugnehmend auf Ihr Stellenangebot auf {{Quelle des Stellenangebotes}} bewerbe ich mich auf die vakante oben genannte Stelle als {{Stellentitel}}.
+
+{{Anschreiben}}
+
+Ich bin ab {{Arbeitsbeginn}} {{Jahr}}, evtl auch früher, einsetzbar und stehe Ihnen gerne zur Verfügung.'''
+
 ## To-Do
 
 * \[ \] Zusammenstellung der Vorlage
