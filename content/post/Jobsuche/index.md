@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: true
 toc: true
+draft: true
 
 ---
 Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier festhalten möchte. Eventuell helfen meine Erfahrungen anderen, die sich in vergleichbarer Situation befinden.
