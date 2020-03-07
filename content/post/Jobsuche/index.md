@@ -1,16 +1,21 @@
 ---
 authors: ''
-date: 2020-03-06T14:03:00Z
+date: 2020-03-06T14:03:00.000+00:00
 featured: false
 projects: ''
-subtitle: "Erfahrungen meiner kürzlichen Jobsuche"
-summary: "Auf meiner letzten Jobsuche konnte ich einige Erfahrungen mit der automatisierten Erstellung von Bewerbungsunterlagen sammeln."
-tags: ["Lebenslanges Lernen", "Digitalisierung", "Automatisierung"]
-title: "Projekt: Arbeitssuche"
+subtitle: Erfahrungen meiner kürzlichen Jobsuche
+summary: Auf meiner letzten Jobsuche konnte ich einige Erfahrungen mit der automatisierten
+  Erstellung von Bewerbungsunterlagen sammeln.
+tags:
+- Lebenslanges Lernen
+- Digitalisierung
+- Automatisierung
+title: 'Projekt: Arbeitssuche'
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: true
+draft: true
 
 ---
 Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier festhalten möchte. Eventuell helfen meine Erfahrungen anderen, die sich in vergleichbarer Situation befinden.
