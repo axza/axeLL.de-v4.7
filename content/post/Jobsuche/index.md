@@ -15,7 +15,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: true
-draft: true
 
 ---
 Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier festhalten möchte. Eventuell helfen meine Erfahrungen anderen, die sich in vergleichbarer Situation befinden.
@@ -40,17 +39,31 @@ Zuallererst habe ich ein leeres Dokument erstellt und die feststehenden Eintragu
 
 Die weiteren Unterlagen wie Lebenslauf, Zeugnisse und Beurteilungen werden ebenfalls in das Dokument eingefügt. So ist das Grundgerüst fertig.
 
-Nun fügen wir in das Anschreiben Platzhalter ein. Diese sind in dem Format `{{Platzhaltername}}` einzusetzen. Bei mir sind es
+Nun fügen wir in das Anschreiben Platzhalter ein. Diese sind in dem Format `{{Platzhaltername}}` einzusetzen. Ich habe folgende Variablen eingesetzt:
 
-\`{{Adresse}}
+```
+{{Adresse}}
 {{heutiges datum}}  
+
 {{Stellentitel}} {{kennziffer}}
-{{Anrede}}, sehr geehrte Damen und Herren,
-bezugnehmend auf Ihr Stellenangebot auf {{Quelle des Stellenangebotes}} bewerbe ich mich auf die vakante oben genannte Stelle als {{Stellentitel}}.
+
+{{Anrede}}
+{{Quelle des Stellenangebotes}}{{Stellentitel}}.
 
 {{Anschreiben}}
 
-Ich bin ab {{Arbeitsbeginn}} {{Jahr}}, evtl auch früher, einsetzbar und stehe Ihnen gerne zur Verfügung.\`
+{{Arbeitsbeginn}} {{Jahr}}
+```
+
+Im folgenden Bild sind die Platzhaltervariablen im Dokumententext zu sehen:
+![](/img/jobformular.png)
+
+### Formular erstellen
+
+
+### Skript zur Zusammenführung
+
+### Prüfung und Export als pdf
 
 ## To-Do
 
