@@ -21,7 +21,7 @@ exclude_past = false
 publication_type = ""
 tag = ""
 [design]
-view = 2
+view = 3
 [design.background]
 
 +++

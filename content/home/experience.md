@@ -4,7 +4,7 @@ date_format = "January 2006"
 headless = true
 subtitle = ""
 title = "Berufs&shy;erfah&shy;rung"
-weight = 40
+weight = 30
 widget = "experience"
 [[experience]]
 company = "Universität Rostock"
