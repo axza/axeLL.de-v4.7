@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Geographie Nebenfächer Geologie und Kommunikationswissenschaft
+  - course: Geographie, Geologie und Kommunikationswissenschaft
     institution: Universität Greifswald
     year: 2014
 
@@ -57,8 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-# - Researchers
-# - Visitors
+#- Researchers
 ---
 
 Ich arbeite seit 2017 an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a>. Hier verantworte ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
