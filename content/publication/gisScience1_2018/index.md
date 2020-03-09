@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Offene Daten für Lehre und Forschung in raumbezogenen Studiengängen – OpenGeoEdu"
-authors: [admin]
+authors: 
+- Ralf Bill
+- Axel Lorenzen-Zabel
+- Matthias Hinz
 date: 2018-1-08T23:04:41+02:00
 doi: ""
 
@@ -30,8 +33,8 @@ unter www.opengeoedu.de verfügbar und wird kontinuierlich ausgebaut und weitere
 summary: "Der Beitrag stellt Konzepte und erste Entwicklungen in dem vom BMVI geförderten Projekt „OpenGeoEdu“ vor,
 in dem es um die Nutzbarmachung offener Geodaten in raumbezogenen Studiengängen geht."
 
-tags: [gis, digitalisierung, MOOC]
-categories: []
+tags: [gis, digitalisierung, MOOC, Open Data, Open Educational Resources, Open-Data-Portal, E-Learning-Umgebungen]
+categories: [OpenGeoEdu]
 featured: false
 
 # Custom links (optional).

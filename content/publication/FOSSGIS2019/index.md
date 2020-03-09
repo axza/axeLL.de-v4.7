@@ -30,6 +30,7 @@ tags:
 - digitalisierung
 categories:
 - MOOC
+- OpenGeoEdu
 featured: false
 url_pdf: https://www.fossgis-konferenz.de/2019/data/fossgis_tagungsband_2019.pdf
 url_code: 

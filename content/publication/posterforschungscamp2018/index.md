@@ -1,7 +1,11 @@
 ---
 title: Forschungscamp Universität Rostock 2018
 authors:
-- admin
+- Alexandra Pfeiffer
+- Axel Lorenzen-Zabel
+- Matthias Hinz
+- Jasmin Kalcher
+- Prof. Ralf Bill
 date: 2018-11-04T21:03:34.000+00:00
 doi: ''
 publishDate: 2019-07-04T21:03:34.000+00:00

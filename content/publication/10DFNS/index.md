@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Offene Daten in Lehre und Forschung - das Projekt OpenGeoEdu"
-authors: [admin]
+authors: [admin, Prof. Ralf Bill]
 date: 2018-05-04T21:35:28+02:00
 doi: ""
 
