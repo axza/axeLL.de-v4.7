@@ -4,9 +4,9 @@
 title: "My Pi-hole"
 subtitle: "Werbung nein Danke 🚫"
 summary: "Netzwerkweit Werbung und Tracking unterbinden mit Pi-hole®"
-authors: []
+authors: [admin]
 tags: [foss, pi, Konsum, IoT]
-categories: [pi]
+categories: []
 date: 2019-09-12T19:16:10+02:00
 lastmod: 2019-09-13T13:16:10+02:00
 featured: false
