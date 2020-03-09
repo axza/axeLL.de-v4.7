@@ -4,7 +4,7 @@
 title: "Neue Seite"
 subtitle: ""
 summary: "Meine Neue Seite umgesetzt mit hugo"
-authors: []
+authors: [admin]
 tags: [hugo, GitHub, webdev, academic, foss]
 categories: []
 date: 2019-07-04T15:39:08+02:00
@@ -29,7 +29,9 @@ projects: [it]
 ---
 
 Nach komplettem Eigenbau dann zu Wordpress, GRAV und weiteren Versuchen bin ich hiermit bei hugo angekommen und fühle mich sehr wohl.
-Das Theme Academic lässt sich vielseitig anpassen.
+Das [Academic Theme](https://sourcethemes.com/academic/) lässt sich vielseitig anpassen.
 
 {{< tweet 1147440831651037185 >}}
 
+
+Update: Januar Academic Theme v4.7
