@@ -24,7 +24,6 @@ footer:
   twitterlink: opengeoedu
   copyright: by-sa
   ort: ''
-
 ---
 <style>
 .object-fit {
@@ -78,12 +77,12 @@ in einer Vielzahl von Studiengängen</span> bereitstellen.
 
 ***
 
-![](offeneLernplattform.png)
-
-***
-
 [learn.opengeoedu.de](https://learn.opengeoedu.de)
 ![](learn-start.png)
+***
+
+![](offeneLernplattform.png)
+
 
 ***
 
@@ -119,3 +118,5 @@ GitHub
 
 ***
 
+<i class="fab fa-grav fa-5x"></i>
+## [Anleitung zur Installation von GRAV ](https://learn.getgrav.org/16/basics/installation)
