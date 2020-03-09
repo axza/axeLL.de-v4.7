@@ -1,5 +1,6 @@
 ---
-title: STS2019
+title: 'Blessings of Open Data and Technology: E-Learning Examples on Land Use Monitoring
+  and E-Mobility'
 authors:
 - admin
 date: 2019-07-04T21:11:15.000+00:00
@@ -7,8 +8,9 @@ doi: 10.3217/978-3-85125-668-0-22
 publishDate: 2020-01-01T23:11:15+01:00
 publication_types:
 - '1'
-publication: ''
-publication_short: ''
+publication: Conference Proceedings of the STS Conference Graz 2019, Critical Issues
+  in Science, Technology and Society
+publication_short: Proceedings of the STS Conference Graz 2019
 abstract: |-
   The combination of theoretical knowledge and practice-oriented education are key for
   future professionals and young scientists. Open data and technologies are providing
