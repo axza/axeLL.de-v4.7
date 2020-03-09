@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: /files/NOERD19_OGE_ALZ.pdf
+url_slides: 
 
 url_code:
-url_pdf:
+url_pdf: /files/NOERD19_OGE_ALZ.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -57,7 +57,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides: "noerd"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
