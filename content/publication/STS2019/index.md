@@ -4,7 +4,7 @@ authors:
 - admin
 date: 2019-07-04T21:11:15.000+00:00
 doi: 10.3217/978-3-85125-668-0-22
-publishDate: 2020-07-04T21:11:15.000+00:00
+publishDate: 2020-01-01T23:11:15+01:00
 publication_types:
 - '1'
 publication: ''
