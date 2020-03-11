@@ -15,7 +15,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: true
-toc: true
 draft: true
 
 ---
@@ -25,7 +24,9 @@ Auf meiner letzten Jobsuche konnte ich einige Erfahrungen sammeln, die ich hier 
 
 Meine aktuelle Projektstelle läuft planmäßig aus, daher habe ich mich im Dezember ($ t_{ 0 } $) mal über offene Stellen informiert. Mit einem Rundumschlag auf gängigen Jobaggregatoren- und Seiten, die die Geo*- und IT-Zielgruppe bedienen wie beispielsweise [digital-geography.com](https://de.digital-geography.com/jobs/ "digital-geography.com") oder [greenjobs.de](https://www.greenjobs.de/ "greenjobs.de") habe ich angefangen.
 
-![](/img/digitalgeography.jpg) Dieser war schon sehr ergiebig. Ergänzend habe ich die handverlesenen Angebote von [gesinesjobtipps.de](https://gesinesjobtipps.de/ "gesinesjobtipps.de") gescannt sowie die Suchfunktion für Stellenangebote von Google durchforstet.
+![](/img/digitalgeography.jpg)
+
+Dieser war schon sehr ergiebig. Ergänzend habe ich die handverlesenen Angebote von [gesinesjobtipps.de](https://gesinesjobtipps.de/ "gesinesjobtipps.de") gescannt sowie die Suchfunktion für Stellenangebote von Google durchforstet.
 
 ![Screenshot der Google Jobsuche](/img/googlejobs.jpg "Google Jobsuche")
 

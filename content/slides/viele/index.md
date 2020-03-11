@@ -1,5 +1,5 @@
 ---
-title: VieLe Campustagung 2020
+title: VieLe Campustagung 2020 - OpenGeoEdu
 summary: Präsentation zum OpenGeoEdu-Beitrag für die Campustagung 2020 an der Universität
   Rostock
 authors: ''
@@ -11,19 +11,22 @@ tags:
 categories:
 - opengeoedu
 date: 2020-01-30T14:29:45.000+00:00
+branding: "opengeoedu"
 slides:
   theme: white
   highlight_style: dracula
   slidenumber: true
-  transition: []
-  transitionSpeed: []
+  transition: [fade] # none/fade/slide/convex/concave/zoom
+  transitionSpeed: [slow] # default/fast/slow
   parallaxbackgroundimage: ''
+  backgroundTransition: "" # none/fade/slide/convex/concave/zoom
 footer:
   tag: 30.03.2020
   veranstaltung: VieLe-Campustagung
   twitterlink: opengeoedu
-  copyright: by-sa
-  ort: ''
+  copyright: by-sa # by/by-sa/by-nc/by-nc-sa/by-nd/by-nc-nd
+  ort: 'Rostock'
+
 ---
 <style>
 .object-fit {
@@ -47,6 +50,11 @@ height: 100%;
 # Workshop
 
 #### Campustagung 2020
+
+***
+
+<section data-background="oge-software.jpg"  data-background-color="" data-background-size="contain"">
+</section>
 
 ***
 
