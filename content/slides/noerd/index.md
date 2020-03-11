@@ -6,20 +6,21 @@ tags: []
 categories:
 - opengeoedu
 date: 2019-10-16T14:29:45.000+00:00
+branding: "opengeoedu"
 slides:
   theme: white
   highlight_style: dracula
   slidenumber: true
-  transition: []
-  transitionSpeed: []
+  transition: [fade] # none/fade/slide/convex/concave/zoom
+  transitionSpeed: [slow] # default/fast/slow
   parallaxbackgroundimage: ''
+  backgroundTransition: "" # none/fade/slide/convex/concave/zoom
 footer:
   twitterlink: twoeLLph
   veranstaltung: NØRD
   copyright: by-sa
   tag: ''
   ort: ''
-
 ---
 <style
 >.object-fit { 
