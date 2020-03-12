@@ -5,7 +5,7 @@ summary: Kleine interessante PI-Projekte, zum Nachmachen empfohlen!
 weight: 1
 
 # Page metadata.
-title: Übersicht der Ideen zum Hausgebrauch des Mini-Computers Raspberry Pi
+title: Ideenübersicht zum Hausgebrauch des Mini-Computers Raspberry Pi
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -25,3 +25,4 @@ Aktuelle Projekte:
 
 * [Pi hole](pihole/)
 * NextcloudPi (coming soon™)
+* Infoscreen/*smart mirror*
