@@ -1,0 +1,25 @@
+#oge-header {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  background-color: #009de0;
+  padding: 1vmin 1rem;
+
+}
+
+.controls-arrow {
+  color: #000000;
+}
+
+#reveal-footer {
+  background-color: #a1bf35;
+}
+
+
+#logo{
+  position: absolute;
+  top: 40px;
+  right: 15px;
+  height: 20%;
+  z-index: 0;
+}

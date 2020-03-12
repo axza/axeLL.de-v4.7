@@ -29,6 +29,11 @@
   {{ $style := slice $css $css_custom | resources.Concat "css/reveal_custom.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
+  <!-- load opengeoedutheme -->
+  {{ if .Params.branding }}
+  <link rel="stylesheet" href="/css/opengeoedu-slides.css">
+  {{ end }}
+
   <!-- Printing and PDF exports -->
   <script>
     var link = document.createElement('link');
@@ -39,24 +44,25 @@
     document.getElementsByTagName('head')[0].appendChild(link);
 
   </script>
-
+  <script src="https://kit.fontawesome.com/cb72c6be47.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-  
-  <div id="oge-footer" class="footer">
-    <span class="element">{{ $.Params.footer.veranstaltung }}</span>
+  {{ if .Params.branding }}
+  <div id="oge-header"></div>
+  <img id="logo" src="/img/oge-hro.png">
+  <div id="reveal-footer" class="footer">
     <span class="element">{{ $.Params.footer.ort }}</span>
     <span class="element">{{ $.Params.footer.tag }}</span>
+    <span class="element">{{ $.Params.footer.veranstaltung }}</span>
     <span class="element"><a href="https://twitter.com/{{ $.Params.footer.twitterlink }}" target="_blank">@{{ $.Params.footer.twitterlink }}</a></span>
-    <span><a rel="license" href="http://creativecommons.org/licenses/{{ $.Params.footer.copyright }}/4.0/"><img alt="Creative Commons Lizenzvertrag"
-          src="https://i.creativecommons.org/l//{{ $.Params.footer.copyright }}/4.0/88x31.png"></a></span>
-    <span></span>
+    <span><a rel="license" href="http://creativecommons.org/licenses/{{ $.Params.footer.copyright }}/4.0/"><img alt="Creative Commons Lizenzvertrag" src="https://i.creativecommons.org/l//{{ $.Params.footer.copyright }}/4.0/88x31.png"></a></span>
   </div>
-  <script type="text/javascript">
+  {{ end }}
+    <script type="text/javascript">
     window.addEventListener("load", function() {
              revealDiv = document.querySelector("body div.reveal")
-             footer = document.getElementById("oge-footer");
+             footer = document.getElementById("reveal-footer");
              revealDiv.appendChild(footer);
          } );
   </script>
@@ -116,9 +122,12 @@
       controls: true,
       history: true,
       progress: true,
-      transition: 'slide',
+      transition: {{ $.Params.slides.transition }},
+      transitionSpeed: {{ $.Params.slides.transitionspeed }},
+      slideNumber: {{ $.Params.slides.slidenumber }},
+      backgroundTransition: {{ $.Params.slides.backgroundTransition }},
       mouseWheel: true,
-      slideNumber: true,
+      controlsLayout: 'edges',
     };
     let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
     Reveal.initialize(revealOptions);

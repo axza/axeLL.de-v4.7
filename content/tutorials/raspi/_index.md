@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Kochen & Backen
-summary: Kleine interessante Pie-Projekte, zum Nachmachen empfohlen!
-weight: 2
+linktitle: Raspberry Pi-Projekte
+summary: Kleine interessante PI-Projekte, zum Nachmachen empfohlen!
+weight: 1
 
 # Page metadata.
-title: Spaß am Kochen!
+title: Übersicht der Ideen zum Hausgebrauch des Mini-Computers Raspberry Pi
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,8 +16,12 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  yummy:
-    name: Rezeptübersicht
-    weight: 2
+  raspi:
+    name: Raspberry Pi-Projekte
+    weight: 1
 ---
-tbc
+
+Aktuelle Projekte:
+
+* [Pi hole](pihole/)
+* NextcloudPi (coming soon™)

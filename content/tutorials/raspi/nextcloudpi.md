@@ -1,19 +1,18 @@
 ---
 title: NextCloud als private Cloudlösung
 summary: "Nutzen Sie die Vorteile der Cloud, ohne personenbezogene Daten in die Hände anderer zu legen: Nextcloud auf dem Raspberry Pi macht es möglich."
-
-linktitle: Nextcloud
+linktitle: NextcloudPi
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: true
 menu:
-  raspberrypi:
+  raspi:
     parent: 
-    weight: 2
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 highlight: true
 highlight_languages: 
     - "powershell" 
