@@ -26,7 +26,7 @@ footer:
   twitterlink: opengeoedu
   copyright: by-sa # by/by-sa/by-nc/by-nc-sa/by-nd/by-nc-nd
   ort: 'Rostock'
-
+draft: true
 ---
 <style>
 .object-fit {
