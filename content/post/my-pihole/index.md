@@ -31,5 +31,5 @@ projects: [it]
 
 In diesem Tutorial habe ich mal aufgeschrieben wie ihr euch günstig ein Schwarzes Loch für Werbung im Internet einrichtet.
 
-<a class="btn btn-info btn-lg btn-block p-4" href="/tutorials/raspberrypi/pihole/pihole/">Hier gehts zum Tutorial</a>
+<a class="btn btn-info btn-lg btn-block p-4" href="/tutorials/raspi/pihole/">Hier gehts zum Tutorial</a>
 <br />
