@@ -17,7 +17,7 @@ date_end: 2019-09-26T15:45:57.000+00:00
 all_day: false
 publishDate: 2019-08-22T14:08:57.000+00:00
 authors: [admin]
-tags: [Talk, Konferenz, Digitialisierung, Lebenslanges Lernen]
+tags: [Talk, Konferenz, Digitalisierung, Lebenslanges Lernen]
 
 featured: true
 image:

@@ -23,7 +23,7 @@ all_day: true
 publishDate: 2019-07-08T22:32:11+02:00
 
 authors: [admin]
-tags: [Talk, Konferenz, Digitialisierung, Lebenslanges Lernen,]
+tags: [Talk, Konferenz, Digitalisierung, Lebenslanges Lernen,]
 
 # Is this a featured talk? (true/false)
 featured: false
