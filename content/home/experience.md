@@ -7,9 +7,17 @@ title = "Berufs&shy;erfah&shy;rung"
 weight = 30
 widget = "experience"
 [[experience]]
+company = "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH"
+company_url = "https://www.dvz-mv.de"
+date_end = ""
+date_start = "2020-05-01"
+description = "Systemintegration Webservice:\n * E-Government \n * Geoinformation"
+location = "Schwerin"
+title = "System Engineer"
+[[experience]]
 company = "Universität Rostock"
 company_url = "https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/"
-date_end = ""
+date_end = "2020-04-30"
 date_start = "2017-07-01"
 description = "  Forschung und technische Verantwortung im [Projekt OpenGeoEdu](https://www.opengeoedu.de) \n\n  * Konzeption \n  * Evaluation - LMS, CMS\n  * DevOps - CI, DB\n  "
 location = "Rostock"
