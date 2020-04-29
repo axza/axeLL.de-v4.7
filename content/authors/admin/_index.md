@@ -45,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/axza
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Axel_Lorenzen-Zabel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -60,6 +63,8 @@ user_groups:
 #- Researchers
 ---
 
-Ich arbeite seit 2017 an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a>. Hier verantworte ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
+Ich arbeite seit Mai 2020 für das [Datenverarbeitungszentrum Mecklenburg-Vorpommern](https://www.dvz-mv.de/). 
+
+Vorher war ich an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a> tätig. Hier verantwortete ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
 
 Nach dem Studium der Geographie an der Universität Greifswald arbeitete ich freiberuflich u. a. als GIS-Analyst, Consultant, Projekt-Assistent und Kartierer.
