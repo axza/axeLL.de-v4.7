@@ -33,7 +33,7 @@ unter www.opengeoedu.de verfügbar und wird kontinuierlich ausgebaut und weitere
 summary: "Der Beitrag stellt Konzepte und erste Entwicklungen in dem vom BMVI geförderten Projekt „OpenGeoEdu“ vor,
 in dem es um die Nutzbarmachung offener Geodaten in raumbezogenen Studiengängen geht."
 
-tags: [gis, digitalisierung, MOOC, Open Data, Open Educational Resources, Open-Data-Portal, E-Learning-Umgebungen]
+tags: [gis, digitalisierung, MOOC, Open Data, Open Educational Resources, Open-Data-Portal, E-Learning]
 categories: [OpenGeoEdu]
 featured: false
 
