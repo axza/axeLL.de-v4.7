@@ -5,7 +5,7 @@ name = "Lato"
 google_fonts = "Lato:400,700|Roboto+Mono|Lexend+Deca"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lexend+Deca"
-nav_font = "Lato"
+heading_font = "Lexend"
+body_font = "Lato"
+nav_font = "Lexend"
 mono_font = "Roboto Mono"
