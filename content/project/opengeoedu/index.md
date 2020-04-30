@@ -19,6 +19,10 @@ links:
     icon: twitter
     name: Follow
     url: 'https://twitter.com/opengeoedu'
+  - name: Code on GitHub
+    url: https://github.com/opengeoedu/
+    icon_pack: fab
+    icon: github
   - icon_pack: fas
     icon: pen
     name: meine Beiträge
@@ -35,10 +39,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+#  - name: Code on GitHub
+#    url: https://github.com/opengeoedu/
+#    icon_pack: fab
+#    icon: github
 
 url_code: ""
 url_pdf: ""
@@ -50,5 +54,5 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "opengeoedu-presentation"
+slides: ""
 ---

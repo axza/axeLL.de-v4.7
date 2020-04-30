@@ -1,15 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "VISIONZER0"
-summary: "Gefühlte Sicherheit im Radverkehr mit #opendata erhöhen"
+title: "klasse.cloud"
+summary: "Unterrichts-Materialien digital
+austauschen und kommunizieren"
 authors: []
-tags: [Open Data, NMIV, GitHub, GIS, FME, Fahrradfahren]
-categories: [NMIV]
-date: 2019-07-04T23:56:03+02:00
+tags: [foss, teaching, WirVsVirus]
+categories: []
+date: 2020-04-29T16:34:53+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.klasse.cloud/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,15 +23,15 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Code on GitHub
-  url: https://github.com/namiko/BMVI_DR2019
-  icon_pack: fab
-  icon: github
+ - name: Code on Github
+   url: https://github.com/klassecloud/
+   icon_pack: fab
+   icon: github
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://github.com/axza/nrvk19"
-url_video: ""
+url_slides: ""
+url_video: "https://youtu.be/ZoVyL6qXdcU"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
