@@ -16,9 +16,9 @@ weight: 2
 ---
 
 {{% alert note %}}
-Zeit: Circa 30 Minuten
-Richtet sich an: Einsteiger und Fortgeschrittene
-Kein Werkzeug benötigt
+* Zeit: Circa 30 Minuten
+* Richtet sich an: Einsteiger und Fortgeschrittene
+* Kein Werkzeug benötigt
 {{% /alert %}}
 
 ## TOR
