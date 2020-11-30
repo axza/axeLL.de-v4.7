@@ -24,5 +24,6 @@ menu:
 Aktuelle Projekte:
 
 * [Pi hole](pihole/)
+* [TOR-Relay](tor-relay/)
 * NextcloudPi (coming soon™)
 * Infoscreen/*smart mirror*
