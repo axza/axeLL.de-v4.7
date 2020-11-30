@@ -23,20 +23,20 @@ Pi hole lässt sich auch auf anderen Modellen nutzen. Ich habe gute Erfahrungen 
 Als kleinen Einstieg in das Thema guckt euch das obige Video an. Das gibt einen guten Überblick zu diesem Vorhaben.
 
 ## Projektinfos
-{{% alert note %}}
+{{% callout note %}}
 * Zeit: Circa 45 Minuten
 * Richtet sich an: Einsteiger und Fortgeschrittene
 * Kein Werkzeug benötigt
   
-{{% /alert %}}
+{{% /callout %}}
 
 ## Einkaufszettel
-{{% alert note %}}
+{{% callout note %}}
 * Raspberry Pi (ich nutze aktuell den [Zero W](https://shop.pimoroni.de/products/raspberry-pi-zero-w))
 * Micro USB Netzteil (mind. 2,5A)
 * Gehäuse (optional)
 * microSD 16GB Class 10
-{{% /alert %}}
+{{% /callout %}}
 
 ## Vorraussetzungen
 

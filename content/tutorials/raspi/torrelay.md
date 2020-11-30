@@ -15,11 +15,11 @@ menu:
 weight: 2
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 * Zeit: Circa 30 Minuten
 * Richtet sich an: Einsteiger und Fortgeschrittene
 * Kein Werkzeug benötigt
-{{% /alert %}}
+{{% /callout %}}
 
 ## TOR
 

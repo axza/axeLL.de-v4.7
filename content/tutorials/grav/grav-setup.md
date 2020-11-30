@@ -74,6 +74,6 @@ git clone --no-checkout https://github.com/opengeoedu/learn.opengeoedu.de.git tm
 6. Zum Aktivieren des OpenGeoEdu Themes muss die Zeile `theme:quark` in der Datei `user\config\system.yaml` in `theme:oge-lean` geändert werden und schon sollte es so aussehen:
 
 
-{{% alert warning %}}
+{{% callout warning %}}
 Beachten Sie auch die ausführliche [Installationsbeschreibung von GRAV](https://learn.getgrav.org/16/basics/installation) mit Unterstützung zur Fehlerbeseitigung.
-{{% /alert %}}
+{{% /callout %}}

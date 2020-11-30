@@ -19,22 +19,22 @@ highlight_languages:
 ---
 
 ## Projektinfos
-{{% alert note %}}
+{{% callout note %}}
 * Zeit: Circa 60 Minuten
 * Richtet sich an: Fortgeschrittene
 * Kein Werkzeug benötigt
   
-{{% /alert %}}
+{{% /callout %}}
 
 ## Einkaufszettel
-{{% alert note %}}
+{{% callout note %}}
 * Raspberry Pi (ich nutze aktuell den [Pi 3b+](https://shop.pimoroni.de/products/raspberry-pi-zero-w))
 * Micro USB Netzteil (mind. 2,A)
 * Gehäuse (optional)
 * microSD 16GB Class 10
 * externe Festplatte
   * alternativ größeren USB-Stick
-{{% /alert %}}
+{{% /callout %}}
 
 ## Vorraussetzungen
 Wifi
