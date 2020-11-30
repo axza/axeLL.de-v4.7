@@ -22,7 +22,7 @@ verspürte ich einen starken Drang mich einzubringen.
 
 Der erste Schritt, die Markierung von einzusetzenden Werkzeugen, mit Kennzeichnungselementen des Cyberrettungsdienstes, ist erfolgt. Danke an [@HonkHase](https://twitter.com/HonkHase) für den zügigen Vollzug.
 
-{{< 1332405492535218178 >}}
+{{< tweet 1332405492535218178 >}}
 
 
 
