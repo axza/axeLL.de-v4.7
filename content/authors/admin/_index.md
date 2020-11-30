@@ -63,7 +63,7 @@ user_groups:
 #- Researchers
 ---
 
-Ich arbeite seit Mai 2020 für das [Datenverarbeitungszentrum Mecklenburg-Vorpommern](https://www.dvz-mv.de/). 
+Aktuell arbeite ich seit Mai 2020 für das [Datenverarbeitungszentrum Mecklenburg-Vorpommern](https://www.dvz-mv.de/). Hier befasse ich mich u.a. mit der Bereitstellung von Geoinformationen des Landes zur Verwendung durch Bürger, Institutionen und Unternehmen.
 
 Vorher war ich an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a> tätig. Hier verantwortete ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
 
