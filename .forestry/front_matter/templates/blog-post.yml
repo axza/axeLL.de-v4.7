@@ -49,3 +49,5 @@ fields:
   type: boolean
   label: featured
   description: You can filter by featured content on your homepage
+pages:
+- content/post/python/python-gmail-api-tabellen-aus-pdf-anhangen-auswerten.md
