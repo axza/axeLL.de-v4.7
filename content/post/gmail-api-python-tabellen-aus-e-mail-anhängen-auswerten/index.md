@@ -7,6 +7,12 @@ summary: Rechnungen (und andere Tabellen/daten) aus dem GMail-Postfach abrufen,
   analysieren und visualisieren
 draft: true
 featured: false
+authors:
+  - admin
+tags:
+  - python
+  - api
+  - automatisierung
 image:
   filename: featured
   focal_point: Smart
