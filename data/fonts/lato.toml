@@ -2,10 +2,10 @@
 name = "Lato"
 
 # Optional Google font URL
-google_fonts = "family=Lato:400,700/family=Roboto+Mono|family=Lexend+Deca"
+google_fonts = "family=Lato:wght@400;700&family=Lexend+Deca&family=Roboto+Mono"
 
 # Font families
-heading_font = "Lexend"
+heading_font = "Lexend Deca"
 body_font = "Lato"
-nav_font = "Lexend"
+nav_font = "Lexend Deca"
 mono_font = "Roboto Mono"
