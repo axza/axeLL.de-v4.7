@@ -42,6 +42,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/twoeLLph
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@oeLLph
 - icon: github
   icon_pack: fab
   link: https://github.com/axza
