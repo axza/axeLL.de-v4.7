@@ -29,23 +29,23 @@ date_format = "January 2006"
   description = ""
 
 [[item]]
-  organization = "4th BMVI-DataRun"
+  organization = "BMVI"
   organization_url = "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-vierter-bmvi-data-run.html"
   title = "Auszeichnung \"Digitale Fahrrad-Hacks\""
   url = "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/preistraeger-datarun-2019.html"
   certificate_url = ""
   date_start = "2019-03-23"
   date_end = ""
-  description = ""
+  description = "4th BMVI-DataRun ist ein Open Data Hackathon des Bundesministeriums für Verkehr und digitale Infrastruktur"
 
 [[item]]
-  organization = "4th BMVI-DataRun"
+  organization = "BMVI"
   organization_url = "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-vierter-bmvi-data-run.html"
   title = "Auszeichnung \"Publikumspreis\""
   url = "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/preistraeger-datarun-2019.html"
   certificate_url = ""
   date_start = "2019-03-23"
   date_end = ""
-  description = ""
+  description = "4th BMVI-DataRun ist ein Open Data Hackathon des Bundesministeriums für Verkehr und digitale Infrastruktur"
 
 +++
