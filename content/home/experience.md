@@ -6,6 +6,13 @@ subtitle = ""
 title = "Berufs&shy;erfah&shy;rung"
 weight = 30
 widget = "experience"
+
+# Experiences.
+#   Add/remove as many `experience` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with `>-`.
+
 [[experience]]
 company = "deeeper.technology GmbH"
 company_url = "https://deeeper-technology.de"
