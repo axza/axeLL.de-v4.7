@@ -38,7 +38,7 @@ projects:
 ---
 Ich habe mit einem Poster das Projekt und die Idee OpenGeoEdu vorgestellt.
 
-{{< gallery album="img" >}}
+{{< gallery album="uptodate" >}}
 
 > Das Greifswalder Projekt interStudies_2 wird das Thema UPtoDATE: Hochschullehre im digitalen Zeitalter in seiner diesjährigen Tagung am 24. Oktober 2019 in den Fokus rücken. Ziel der Veranstaltung ist es, in Plenarvorträgen, Workshops und Posterpräsentationen neue Perspektiven zu eröffnen, Impulse für die eigene Lehrpraxis zu geben sowie Strategien für die Digitalisierung der Hochschullehre vorzustellen und zu erörtern. Digitale Lehr-Lern-Formate sowie Praxisbeispiele werden präsentiert und hinsichtlich ihres adäquaten Einsatzes in der Hochschullehre diskutiert.
 > 

@@ -78,6 +78,4 @@ Einfach [hier anmelden ](https://www.digitalesmv.de/noerd/anmeldung)und mitreden
 <hr>
 <span style="color:red">Edit:</span> Das war ein sehr spannender Tag mit vielen Einblicken und interessanten Gespräche mit Digitalisierungsbegeisterten aus Mecklenburg-vorpommern.
 
-{{< gallery album="img" >}}
-
-{{< gallery album="img_portait" >}}
+{{< gallery album="noerd19" >}}

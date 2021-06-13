@@ -28,16 +28,16 @@ image:
 projects: []
 
 gallery_item:
-- album: img
+- album: bockbier
   image: 4l.png
   caption: "4L h2o + 72K"
-- album: img
+- album: bockbier
   image: malzkochen.png
   caption: "Malz auf Temperatur halten"
-- album: img
+- album: bockbier
   image: treber.png
   caption: "Malz abschöpfen und Würze auffangen"
-- album: img
+- album: bockbier
   image: gaerspund.png
   caption: "Abfüllung mit Gärspund"
 ---
@@ -48,4 +48,4 @@ Also lieber spät als nie wurde gestern Bockbier gebraut.
 
 in zwei wochen wird abgefüllt, dann gibt es hier ein Update dazu.
 
-{{< gallery album="img" >}}
+{{< gallery album="bockbier" >}}

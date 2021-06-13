@@ -66,16 +66,16 @@ slides: ""
 projects: [visionzero]
 
 gallery_item:
-- album: bilder
+- album: nrvk19
   image: 1.jpg
   caption: Scheuer
-- album: bilder
+- album: nrvk19
   image: 2.jpg
   caption: Fahrrad-Shuttle
-- album: bilder
+- album: nrvk19
   image: 3.jpg
   caption: Leihräder für Kongressbesucher
-- album: bilder
+- album: nrvk19
   image: 4.jpg
   caption: Idealsituation für Radfahrer in Dresden
 ---
@@ -84,4 +84,4 @@ Als Gewinner des ersten Preises des BMVI Data-Runs in der Kategorie „Digitale 
 
 Ich durfte als Teil des Teams VISIONZER0 in 100 Sekunden die Idee hinter VISIONZER0 präsentieren. Unterstützt von den Teammitgliedern Marc Kleemann (ISB AG) und Moritz Schneider (orange edge) forderte VISIONZER0 die Ausweitung der opendata Bestrebungen der Länder und des Bundes um die datenbasierte Planung von fahrradfreundlicher Infrastruktur stärken zu können.
 
-{{< gallery album="bilder" >}}
+{{< gallery album="nrvk19" >}}
