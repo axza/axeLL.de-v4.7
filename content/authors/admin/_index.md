@@ -13,9 +13,9 @@ superuser: true
 role: Diplom-Geograph
 
 # Organizations/Affiliations
-organizations:
-- name: Universität Rostock
-  url: "https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/mitarbeiter/"
+# organizations:
+# - name: Universität Rostock
+#   url: "https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/mitarbeiter/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ich begeistere mich für Fragen zu Mobilität, Technologie und Gesellschaft
@@ -66,8 +66,8 @@ user_groups:
 #- Researchers
 ---
 
-Aktuell arbeite ich seit Mai 2020 für das [Datenverarbeitungszentrum Mecklenburg-Vorpommern](https://www.dvz-mv.de/). Hier befasse ich mich u.a. mit der Bereitstellung von Geoinformationen des Landes zur Verwendung durch Bürger, Institutionen und Unternehmen.
+Zuletzt arbeitete ich für das [Datenverarbeitungszentrum Mecklenburg-Vorpommern](https://www.dvz-mv.de/). Hier befasste ich mich u.a. mit der Bereitstellung von Geoinformationen des Landes zur Verwendung durch Bürger, Institutionen und Unternehmen.
 
-Vorher war ich an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;margin:auto" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a> tätig. Hier verantwortete ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
+Davor war ich an der Universität Rostock für das <a href="https://www.bmvi.de/goto?id=376878">mFUND</a>-Projekt <a href="https://www.opengeoedu.de/"><img style="display:inline;margin:auto" width="20" src="https://www.opengeoedu.de/images/logo/oge.svg"> OpenGeoEdu</a> tätig. Hier verantwortete ich unter anderem den reibungslosen Betrieb und die (Weiter-)Entwicklung der Lernumgebung zum Offenen Online-Kurs OpenGeoEdu.
 
 Nach dem Studium der Geographie an der Universität Greifswald arbeitete ich freiberuflich u. a. als GIS-Analyst, Consultant, Projekt-Assistent und Kartierer.
