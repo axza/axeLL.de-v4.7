@@ -29,16 +29,16 @@ projects: []
 
 gallery_item:
 - album: bockbier
-  image: 4l.png
+  image: 4l.jpg
   caption: "4L h2o + 72K"
 - album: bockbier
-  image: malzkochen.png
+  image: malzkochen.jpg
   caption: "Malz auf Temperatur halten"
 - album: bockbier
-  image: treber.png
+  image: treber.jpg
   caption: "Malz abschöpfen und Würze auffangen"
 - album: bockbier
-  image: gaerspund.png
+  image: gaerspund.jpg
   caption: "Abfüllung mit Gärspund"
 ---
 
