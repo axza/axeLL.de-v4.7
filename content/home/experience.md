@@ -25,7 +25,7 @@ title = "System Architect"
 [[experience]]
 company = "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH"
 company_url = "https://www.dvz-mv.de"
-logo_url = "static/img/dvzlogo400.jpg"
+logo_url = "dvzlogo400.jpg"
 date_end = "2021-06-30"
 date_start = "2020-05-01"
 description = "Systemintegration Webservice:\n * E-Government \n * Geoinformation"
